@@ -1,0 +1,7 @@
+data/
+__pycache__/
+*.pyc
+*.zip
+checkpoints/zoo_alexnet.pth
+checkpoints/*_OLD.pth
+plots/*_OLD.png
